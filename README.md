@@ -1,3 +1,4 @@
+![Samarth Shah](https://drive.google.com/file/d/1I08biFtzJV9de8Pxb1oWh4bFQtNfLNQ-/view?usp=sharing)
 ### Hi there 👋
 
 <!--
