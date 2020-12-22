@@ -1,4 +1,4 @@
-![Samarth Shah](https://drive.google.com/file/d/1I08biFtzJV9de8Pxb1oWh4bFQtNfLNQ-/view?usp=sharing)
+![Samarth Shah](https://github.com/sxmxr/sxmxr/blob/main/White%20and%20Black%20Minimalist%20Modelling%20Portfolio%20Presentation.gif)
 ### Hi there 👋
 
 <!--
