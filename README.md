@@ -1,17 +1,18 @@
 ![Samarth Shah](https://github.com/sxmxr/sxmxr/blob/main/White%20and%20Black%20Minimalist%20Modelling%20Portfolio%20Presentation.gif)
-### Hi there 👋
 
-<!--
-**sxmxr/sxmxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola! 👋🏻
+I am Samarth Shah, a Graphic Designer, Front End Architect, Web Developer.
 
-Here are some ideas to get you started:
+## Connect with Me 🤝🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](/SOC/li.svg)](https://www.linkedin.com/in/samarth-shah-61345014a/) 
+[![Twitter](/SOC/tw.svg)](https://twitter.com/Squxre_Root) 
+[![YouTube](/SOC/yt.svg)](https://www.youtube.com/channel/UCWSQFRvkl7aji-6yaQSStIw) 
+[![GitHub](/SOC/gh.svg)](https://github.com/sxmxr) 
+[![Facebook](/SOC/fb.svg)](https://www.facebook.com/samarth.shah.56829/) 
+[![Instagram](/SOC/ig.svg)](https://www.instagram.com/sxmxr.png/) 
+[![WhatsApp](/SOC/wa.svg)](https://wa.link/mel45s)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sxmxr&theme=blue-green)](https://github.com/sxmxr" />
+</p>
