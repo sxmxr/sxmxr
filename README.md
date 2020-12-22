@@ -1,7 +1,7 @@
 ![Samarth Shah](https://github.com/sxmxr/sxmxr/blob/main/White%20and%20Black%20Minimalist%20Modelling%20Portfolio%20Presentation.gif)
 
 ### Hola! 👋🏻
-I am Samarth Shah, a Graphic Designer, Front End Architect, Web Developer.
+I am Samarth Shah, a Graphic Designer, Front End Architect, Web Developer, Guitarist.
 
 ## Connect with Me 🤝🏻
 
